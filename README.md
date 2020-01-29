@@ -1,2 +1,3 @@
-# tindev-frontend
-A app based tinder
+# Tindev-frontend
+ App criado durante a semana omnistack #8
+ Consiste em conectar programadores atrávez de "matchs"
